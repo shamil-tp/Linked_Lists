@@ -1,3 +1,4 @@
+//@gemini-cli summary
 #include<stdio.h>
 #include<stdlib.h>
 
